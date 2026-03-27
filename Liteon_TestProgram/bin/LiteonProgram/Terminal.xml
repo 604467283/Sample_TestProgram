@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Chroma>
+    <简体中文>
+      <Message Name="Terminal" Value="站别" />
+      <Message Name="Language" Value="语言" />
+      <Message Name="Factory" Value="厂别" />
+      <Message Name="WO" Value="工单" />
+      <Message Name="Production Line" Value="线别" />
+      <Message Name="Stage" Value="区段" />
+      <Message Name="Process" Value="制程" />
+      <Message Name="OK" Value="确认" />
+      <Message Name="Cancel" Value="取消" />
+      <Message Name="Connect APServer Fail!" Value="连接服务器失败！" />
+      <Message Name="Terminal Data Error" Value="站别数据有错误" />
+      <Message Name="Please Choose Terminal!" Value="请选择站别！" />
+      <Message Name="Set up Success!" Value="设定站别成功" />
+      <Message Name="Search" Value="查找" />
+      <Message Name="PART_NO" Value="料号" />
+      <Message Name="WORK_ORDER" Value="工单" />
+      <Message Name="WO Error!" Value="工单错误！" />
+      <Message Name="At Least 3 Character" Value="至少输入3位！" />
+      <Message Name="Current line name contains spaces and cannot be stored as XML parameter" Value="当前线别名称中包含有空格,不能当作XML参数存储" />
+    </简体中文>
+    <繁體中文>
+      <Message Name="Terminal" Value="站別" />
+      <Message Name="Language" Value="語言" />
+      <Message Name="Factory" Value="廠別" />
+      <Message Name="WO" Value="工單" />
+      <Message Name="Production Line" Value="線別" />
+      <Message Name="Stage" Value="區段" />
+      <Message Name="Process" Value="制程" />
+      <Message Name="OK" Value="確認" />
+      <Message Name="Cancel" Value="取消" />
+      <Message Name="Connect APServer Fail!" Value="連接服務器失敗！" />
+      <Message Name="Terminal Data Error" Value="站別數據有錯誤" />
+      <Message Name="Please Choose Terminal!" Value="請選擇站別！" />
+      <Message Name="Set up Success!" Value="設定站別成功" />
+      <Message Name="Search" Value="查找" />
+      <Message Name="PART_NO" Value="料號" />
+      <Message Name="WORK_ORDER" Value="工單" />
+      <Message Name="WO Error!" Value="工單錯誤！" />
+      <Message Name="At Least 3 Character" Value="至少輸入3位！" />
+      <Message Name="Current line name contains spaces and cannot be stored as XML parameter" Value="當前線別名稱中包含有空格,不能當作XML參數存儲" />
+    </繁體中文>
+</Chroma>

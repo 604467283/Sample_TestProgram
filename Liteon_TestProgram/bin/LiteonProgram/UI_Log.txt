@@ -1,0 +1,173 @@
+[2026/03/11 10:32:54] =============Init===============
+[2026/03/11 10:32:54] The relationship between BD and Mac is only mac.
+[2026/03/11 10:32:54] The length of the mac address is 12.
+[2026/03/11 10:32:54] The length of the sn is 26.
+[2026/03/11 10:32:54] Mac barcode ---> 1111111111111
+[2026/03/11 10:32:54] Mac ---> 111111111111
+[2026/03/11 10:32:54] SN barcode ---> 111111111111111111111111111
+[2026/03/11 10:32:54] SN ---> 11111111111111111111111111
+[2026/03/11 10:32:54] Init
+[2026/03/11 10:32:54] Check label2 ANC fail, 1111111111, Target ANC A30482601A
+[2026/03/11 10:32:55] Create SFC file ok.
+[2026/03/11 10:32:56] 测试时间: 1 s
+[2026/03/11 10:32:56] Copy test log(_UI.txt)to fail folder successfully.
+[2026/03/11 10:32:56] Export DataGridView to html (_UI.html)to fail folder successfully.
+[2026/03/18 15:43:19] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:43:20] 检查机种WCBN811L_L6_BE_LSSC_ICT加密文件的MD5失败
+[2026/03/18 15:44:44] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:44:44] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:44:45] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:44:45] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:45:05] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:45:05] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:45:06] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:45:06] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:45:53] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:45:53] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:45:54] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:45:54] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:45:54] ICT Flow MD5值校验Pass.
+[2026/03/18 15:45:54] |TRCE|Process| Send: arg: + COM10 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:45:54] |NRM|Process| Received: cmd string:
+[2026/03/18 15:45:54] |NRM|Process| Received: COM10
+[2026/03/18 15:45:54] |NRM|Process| Received: 38400
+[2026/03/18 15:45:54] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:45:55] |NRM|Process| Received: Import Start...
+[2026/03/18 15:46:20] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:46:20] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:46:20] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:46:20] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:46:20] ICT Flow MD5值校验Pass.
+[2026/03/18 15:46:20] |TRCE|Process| Send: arg: + COM3 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:46:20] |NRM|Process| Received: cmd string:
+[2026/03/18 15:46:20] |NRM|Process| Received: COM3
+[2026/03/18 15:46:20] |NRM|Process| Received: 38400
+[2026/03/18 15:46:20] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:46:21] |NRM|Process| Received: Import Start...
+[2026/03/18 15:46:23] |NRM|Process| Received: Save All Steps......
+[2026/03/18 15:46:23] |NRM|Process| Received: Save SysPara......
+[2026/03/18 15:46:23] |NRM|Process| Received: O/S Save......
+[2026/03/18 15:46:24] |NRM|Process| Received: Import Pass！
+[2026/03/18 15:46:24] Import ICT Flow Pass.
+[2026/03/18 15:46:24] 窗口加载完毕，可以开始测试
+[2026/03/18 15:50:09] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:50:09] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:50:10] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:50:10] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:50:10] ICT Flow MD5值校验Pass.
+[2026/03/18 15:50:10] |TRCE|Process| Send: arg: + COM3 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:50:10] |NRM|Process| Received: cmd string:
+[2026/03/18 15:50:10] |NRM|Process| Received: COM3
+[2026/03/18 15:50:10] |NRM|Process| Received: 38400
+[2026/03/18 15:50:10] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:50:11] |NRM|Process| Received: Import Start...
+[2026/03/18 15:50:12] |NRM|Process| Received: Save All Steps......
+[2026/03/18 15:50:12] |NRM|Process| Received: Save SysPara......
+[2026/03/18 15:50:13] |NRM|Process| Received: O/S Save......
+[2026/03/18 15:50:13] |NRM|Process| Received: Import Pass！
+[2026/03/18 15:50:13] Import ICT Flow Pass.
+[2026/03/18 15:50:13] 窗口加载完毕，可以开始测试
+[2026/03/18 15:54:38] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:54:38] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:54:38] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:54:38] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:54:38] ICT Flow MD5值校验Pass.
+[2026/03/18 15:54:38] |TRCE|Process| Send: arg: + COM3 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:54:38] |NRM|Process| Received: cmd string:
+[2026/03/18 15:54:38] |NRM|Process| Received: COM3
+[2026/03/18 15:54:38] |NRM|Process| Received: 38400
+[2026/03/18 15:54:38] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:54:39] |NRM|Process| Received: Import Start...
+[2026/03/18 15:54:41] |NRM|Process| Received: Save All Steps......
+[2026/03/18 15:54:41] |NRM|Process| Received: Save SysPara......
+[2026/03/18 15:54:42] |NRM|Process| Received: O/S Save......
+[2026/03/18 15:54:42] |NRM|Process| Received: Import Pass！
+[2026/03/18 15:54:42] Import ICT Flow Pass.
+[2026/03/18 15:54:42] 窗口加载完毕，可以开始测试
+[2026/03/18 15:57:43] The log drive (D:) has 188 GB of free space.
+[2026/03/18 15:57:43] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:57:43] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:57:43] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:58:38] The log drive (D:) has 187 GB of free space.
+[2026/03/18 15:58:38] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:58:39] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:58:39] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:58:39] ICT Flow MD5值校验Pass.
+[2026/03/18 15:58:39] |TRCE|Process| Send: arg: + COM10 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:58:39] |NRM|Process| Received: cmd string:
+[2026/03/18 15:58:39] |NRM|Process| Received: COM10
+[2026/03/18 15:58:39] |NRM|Process| Received: 38400
+[2026/03/18 15:58:39] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:58:40] |NRM|Process| Received: Import Start...
+[2026/03/18 15:58:54] |FAIL|Process| Error: execute timeout! force kill
+[2026/03/18 15:58:55] Import ICT Flow Fail.
+[2026/03/18 15:59:27] The log drive (D:) has 187 GB of free space.
+[2026/03/18 15:59:27] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 15:59:27] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 15:59:27] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 15:59:27] ICT Flow MD5值校验Pass.
+[2026/03/18 15:59:27] |TRCE|Process| Send: arg: + COM3 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:59:27] |NRM|Process| Received: cmd string:
+[2026/03/18 15:59:27] |NRM|Process| Received: COM3
+[2026/03/18 15:59:27] |NRM|Process| Received: 38400
+[2026/03/18 15:59:27] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 15:59:28] |NRM|Process| Received: Import Start...
+[2026/03/18 15:59:30] |NRM|Process| Received: Save All Steps......
+[2026/03/18 15:59:30] |NRM|Process| Received: Save SysPara......
+[2026/03/18 15:59:30] |NRM|Process| Received: O/S Save......
+[2026/03/18 15:59:31] |NRM|Process| Received: Import Pass！
+[2026/03/18 15:59:31] Import ICT Flow Pass.
+[2026/03/18 15:59:31] 窗口加载完毕，可以开始测试
+[2026/03/18 15:59:55] Receive----->1#Barcode123456789012
+
+[2026/03/18 16:04:55] The log drive (D:) has 187 GB of free space.
+[2026/03/18 16:04:55] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 16:04:55] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 16:04:55] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 16:04:55] ICT Flow MD5值校验Pass.
+[2026/03/18 16:04:55] |TRCE|Process| Send: arg: + COM3 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 16:04:55] |NRM|Process| Received: cmd string:
+[2026/03/18 16:04:55] |NRM|Process| Received: COM3
+[2026/03/18 16:04:55] |NRM|Process| Received: 38400
+[2026/03/18 16:04:55] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 16:04:56] |NRM|Process| Received: Import Start...
+[2026/03/18 16:04:58] |NRM|Process| Received: Save All Steps......
+[2026/03/18 16:04:58] |NRM|Process| Received: Save SysPara......
+[2026/03/18 16:04:58] |NRM|Process| Received: O/S Save......
+[2026/03/18 16:04:59] |NRM|Process| Received: Import Pass！
+[2026/03/18 16:04:59] Import ICT Flow Pass.
+[2026/03/18 16:04:59] 窗口加载完毕，可以开始测试
+[2026/03/18 16:08:09] The log drive (D:) has 187 GB of free space.
+[2026/03/18 16:08:09] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 16:08:09] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 16:08:09] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 16:08:09] ICT Flow MD5值校验Pass.
+[2026/03/18 16:08:09] |TRCE|Process| Send: arg: + COM3 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 16:08:09] |NRM|Process| Received: cmd string:
+[2026/03/18 16:08:09] |NRM|Process| Received: COM3
+[2026/03/18 16:08:09] |NRM|Process| Received: 38400
+[2026/03/18 16:08:09] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 16:08:10] |NRM|Process| Received: Import Start...
+[2026/03/18 16:08:12] |NRM|Process| Received: Save All Steps......
+[2026/03/18 16:08:12] |NRM|Process| Received: Save SysPara......
+[2026/03/18 16:08:13] |NRM|Process| Received: O/S Save......
+[2026/03/18 16:08:13] |NRM|Process| Received: Import Pass！
+[2026/03/18 16:08:13] Import ICT Flow Pass.
+[2026/03/18 16:08:13] 窗口加载完毕，可以开始测试
+[2026/03/18 16:09:13] The log drive (D:) has 187 GB of free space.
+[2026/03/18 16:09:13] 无需检查机种WCBN811L_L6_BE_LSSC_ICT程式exe的MD5！
+[2026/03/18 16:09:14] Hard disk sn is 0100_0000_0000_0000_8CE3_8E04_0167_D9D5.
+[2026/03/18 16:09:14] Mainboard sn is /BMZ9M83/CNWS2000BC00C5/
+[2026/03/18 16:09:14] ICT Flow MD5值校验Pass.
+[2026/03/18 16:09:14] |TRCE|Process| Send: arg: + COM3 38400 F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 16:09:14] |NRM|Process| Received: cmd string:
+[2026/03/18 16:09:14] |NRM|Process| Received: COM3
+[2026/03/18 16:09:14] |NRM|Process| Received: 38400
+[2026/03/18 16:09:14] |NRM|Process| Received: F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Model_Config\WCBN811L\WCBN811L_L6_BE_LSSC_ICT\WCBN811L_L6_BE_LSSC_ICT_ICTFlow.txt
+[2026/03/18 16:09:15] |NRM|Process| Received: Import Start...
+[2026/03/18 16:09:16] |NRM|Process| Received: Save All Steps......
+[2026/03/18 16:09:16] |NRM|Process| Received: Save SysPara......
+[2026/03/18 16:09:17] |NRM|Process| Received: O/S Save......
+[2026/03/18 16:09:17] |NRM|Process| Received: Import Pass！
+[2026/03/18 16:09:19] Import ICT Flow Pass.
+[2026/03/18 16:09:19] 窗口加载完毕，可以开始测试

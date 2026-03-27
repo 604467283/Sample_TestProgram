@@ -1,0 +1,13 @@
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\bin\Release\SFCHelpers.exe.config
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\bin\Release\SFCHelpers.exe
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\bin\Release\SFCHelpers.pdb
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\bin\Release\SajetConnect.dll
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\bin\Release\ClientUtils.dll
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.csproj.AssemblyReference.cache
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.Properties.Resources.resources
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.SFCHelpers.resources
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.csproj.GenerateResource.cache
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.csproj.CoreCompileInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.csproj.Up2Date
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.exe
+F:\CaseCode\Liteon_TestProgram_UI\SFCHelpers\SFCHelpers\obj\Release\SFCHelpers.pdb

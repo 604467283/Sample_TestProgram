@@ -1,0 +1,198 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <UseWindowsForms>True</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Resources\IMG\LITEON.ico</ApplicationIcon>
+    <AssemblyName>$(MSBuildProjectName)_V01.00.04</AssemblyName>
+    <BaseOutputPath>bin\</BaseOutputPath>
+    <ProduceReferenceAssembly>True</ProduceReferenceAssembly>
+	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+	  <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\IMG\LITEON.ico" />
+  </ItemGroup>
+
+	<PropertyGroup>
+		<OutDir>.\bin\LiteonProgram\</OutDir>
+		<UseWPF>False</UseWPF>
+		<PlatformTarget>AnyCPU</PlatformTarget>
+		<ApplicationManifest>app.manifest</ApplicationManifest>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+	  <Optimize>False</Optimize>
+	</PropertyGroup>
+
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+	  <Optimize>False</Optimize>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+
+  <!--preserve newest-->
+  <ItemGroup>
+	 <None Include="Tool_Config\**">
+	                <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	 </None>
+  </ItemGroup>
+
+	<!--preserve newest-->
+	
+	
+	<ItemGroup>
+	  <PackageReference Include="32feet.NET" Version="3.5.0" />
+	  <PackageReference Include="EPPlus" Version="7.7.0" />
+	  <PackageReference Include="FluentFTP" Version="51.1.0" />
+	  <PackageReference Include="NAudio" Version="2.2.1" />
+	  <PackageReference Include="Ookii.Dialogs.Wpf" Version="5.0.1" />
+	  <PackageReference Include="ScottPlot.WinForms" Version="5.0.40" />
+	  <PackageReference Include="SSH.NET" Version="2024.1.0" />
+	  <PackageReference Include="System.Data.SQLite" Version="1.0.119" />
+	  <PackageReference Include="System.IO.Ports" Version="8.0.0" />
+	  <PackageReference Include="System.Management" Version="9.0.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Include="$(ProjectDir)TestDll\**">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Remove="CaseProject\新文件夹1\**" />
+	  <Compile Remove="Model_Config\SP2D\SP2D08XF0_KBC\**" />
+	  <Compile Remove="Model_Config\SP2E04BB1\SP2E04BB1_KBC-old\**" />
+	  <Compile Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_50_FT1\**" />
+	  <Compile Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_50_FT2\**" />
+	  <Compile Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_SA_FT1\**" />
+	  <Compile Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_SA_FT2\**" />
+	  <EmbeddedResource Remove="CaseProject\新文件夹1\**" />
+	  <EmbeddedResource Remove="Model_Config\SP2D\SP2D08XF0_KBC\**" />
+	  <EmbeddedResource Remove="Model_Config\SP2E04BB1\SP2E04BB1_KBC-old\**" />
+	  <EmbeddedResource Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_50_FT1\**" />
+	  <EmbeddedResource Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_50_FT2\**" />
+	  <EmbeddedResource Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_SA_FT1\**" />
+	  <EmbeddedResource Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_SA_FT2\**" />
+	  <None Remove="CaseProject\新文件夹1\**" />
+	  <None Remove="Model_Config\SP2D\SP2D08XF0_KBC\**" />
+	  <None Remove="Model_Config\SP2E04BB1\SP2E04BB1_KBC-old\**" />
+	  <None Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_50_FT1\**" />
+	  <None Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_50_FT2\**" />
+	  <None Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_SA_FT1\**" />
+	  <None Remove="Model_Config\WCBN3602M\WCBN3602M_MB_For_SA_FT2\**" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Remove="CaseProject\WCBN3602M\Old_WCBN3602M_MB_FT1.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\Old_WCBN3602M_MB_FT2.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_For_SA_FT1.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_For_SA_FT2.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT1 - Backup.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT1 - Nomal.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT1_Backup.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT1_BurnCustomerFW.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT1_NIUV_v1.0.0Vrc2.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT1_Nomal.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT1_OnlyBurnCustomerFW.cs" />
+	  <Compile Remove="CaseProject\WCBN3602M\WCBN3602M_MB_FT2_Backup.cs" />
+	  <Compile Remove="Utilities\PEM\PEMController_1.cs" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Remove="Forms\ynbgxsmi.bfu~" />
+	  <None Remove="ProfileXML\OPEN.xml" />
+	  <None Remove="ProfileXML\WEP.xml" />
+	  <None Remove="ProfileXML\WPA-Enterprise-PEAP-MSCHAPv2.xml" />
+	  <None Remove="ProfileXML\WPA-Enterprise-TLS.xml" />
+	  <None Remove="ProfileXML\WPA-PSK.xml" />
+	  <None Remove="ProfileXML\WPA2-Enterprise-PEAP-MSCHAPv2.xml" />
+	  <None Remove="ProfileXML\WPA2-Enterprise-TLS.xml" />
+	  <None Remove="ProfileXML\WPA2-PSK.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Include="ProfileXML\OPEN.xml" />
+	  <EmbeddedResource Include="ProfileXML\WEP.xml" />
+	  <EmbeddedResource Include="ProfileXML\WPA-Enterprise-PEAP-MSCHAPv2.xml" />
+	  <EmbeddedResource Include="ProfileXML\WPA-Enterprise-TLS.xml" />
+	  <EmbeddedResource Include="ProfileXML\WPA-PSK.xml" />
+	  <EmbeddedResource Include="ProfileXML\WPA2-Enterprise-PEAP-MSCHAPv2.xml" />
+	  <EmbeddedResource Include="ProfileXML\WPA2-Enterprise-TLS.xml" />
+	  <EmbeddedResource Include="ProfileXML\WPA2-PSK.xml" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="Ivi.Visa">
+	    <HintPath>Library\Ivi.Visa.dll</HintPath>
+	  </Reference>
+	  <Reference Include="NationalInstruments.Common">
+	    <HintPath>Library\NationalInstruments.Common.dll</HintPath>
+	  </Reference>
+	  <Reference Include="NationalInstruments.Visa">
+	    <HintPath>Library\NationalInstruments.Visa.dll</HintPath>
+	  </Reference>
+	  <Reference Include="SimpleWifi">
+	    <HintPath>Utilities\WIFIHelper\Library\SimpleWifi.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Model_Config\SP2D07XF2\SP2D07XF2_KBC\" />
+	  <Folder Include="Model_Config\WCBN3535A\WCBN3535A_S9_ICT\" />
+	  <Folder Include="Model_Config\WCBN3602M\WCBN3602M_50_ICT\" />
+	  <Folder Include="Model_Config\WCBN3602M\WCBN3602M_SA_FT1\" />
+	  <Folder Include="Model_Config\WCBN3602M\WCBN3602M_5V_FT1\" />
+	  <Folder Include="Model_Config\WCBN3602M\WCBN3602M_SA_WH_FT1\" />
+	  <Folder Include="Model_Config\WCBN4601R\WCBN4601R_FW8_ICT\" />
+	  <Folder Include="Model_Config\WCBN813A\WCBN813A_N5_A_ICT\" />
+	  <Folder Include="Model_Config\WN3602M\WN3602M_Plus_5V_01_FT2\" />
+	  <Folder Include="Model_Config\ZLogDataCollection\ZLogDataCollection_Litepoint_V2\" />
+	  <Folder Include="Model_Config\ZLogDataCollection\ZLogDataCollection_ACE_V1\" />
+	  <Folder Include="Model_Config\ZLogDataCollection\ZLogDataCollection_iTest_V1\" />
+	  <Folder Include="Model_Config\ZLogDataCollection\ZLogDataCollection_ICT_V1\" />
+	  <Folder Include="Model_Config\WCBN3534A\" />
+	  <Folder Include="Model_Config\WCBN814A\" />
+	  <Folder Include="Model_Config\SP2D08XF2\" />
+	  <Folder Include="Model_Config\WCBN3508M\" />
+	  <Folder Include="Model_Config\SP2E04XB1\" />
+	  <Folder Include="Model_Config\SP2E16XB2\" />
+	  <Folder Include="TestFunc\ACE\LogDataCollection_V1\SampleLog\" />
+	  <Folder Include="TestFunc\ICT\LogDataCollection_V1\SampleLog\" />
+	  <Folder Include="TestFunc\iTest\LogDataCollection_V1\SampleLog\" />
+	  <Folder Include="TestFunc\Litepoint\LogDataCollection_V1\SampleLog\" />
+	  <Folder Include="Utilities\WIFIHelper\Library\" />
+	</ItemGroup>
+
+	<Target Name="CopyExtraFiles" AfterTargets="Build">
+		<ItemGroup>
+			<ExtraFiles Include="Library\*.dll" />
+		</ItemGroup>
+		<Copy SourceFiles="@(ExtraFiles)" DestinationFolder="$(OutputPath)" />
+	</Target>
+
+	<Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+	  <Exec Command="powershell.exe -ExecutionPolicy Bypass -File &quot;BuildScript\CopyModelConfigFolders.ps1&quot;" />
+	</Target>
+
+
+</Project>

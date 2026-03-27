@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0232F2-CA4D-4C70-8826-14D9DCF1636E}|SFCHelpers\\SFCHelpers.csproj|f:\\casecode\\liteon_testprogram_ui\\sfchelpers\\sfchelpers\\sfchelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0232F2-CA4D-4C70-8826-14D9DCF1636E}|SFCHelpers\\SFCHelpers.csproj|solutionrelative:sfchelpers\\sfchelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0232F2-CA4D-4C70-8826-14D9DCF1636E}|SFCHelpers\\SFCHelpers.csproj|F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\sfchelpers\\sfchelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0232F2-CA4D-4C70-8826-14D9DCF1636E}|SFCHelpers\\SFCHelpers.csproj|solutionrelative:sfchelpers\\sfchelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0232F2-CA4D-4C70-8826-14D9DCF1636E}|SFCHelpers\\SFCHelpers.csproj|F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\sfchelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0232F2-CA4D-4C70-8826-14D9DCF1636E}|SFCHelpers\\SFCHelpers.csproj|solutionrelative:sfchelpers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SFCHelpers||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{85201848-e430-4035-8649-f412b84d4778}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\SFCHelpers\\Program.cs",
+              "RelativeDocumentMoniker": "SFCHelpers\\Program.cs",
+              "ToolTip": "E:\\AreaX\\SFCHelpers\\SFCHelpers\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:09:47.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SFCHelpers.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\SFCHelpers\\SFCHelpers.cs",
+              "RelativeDocumentMoniker": "SFCHelpers\\SFCHelpers.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\SFCHelpers\\SFCHelpers.cs",
+              "RelativeToolTip": "SFCHelpers\\SFCHelpers.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAkwB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:09:23.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SFCHelpers",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\SFCHelpers\\SFCHelpers.csproj",
+              "RelativeDocumentMoniker": "SFCHelpers\\SFCHelpers.csproj",
+              "ToolTip": "E:\\AreaX\\SFCHelpers\\SFCHelpers\\SFCHelpers.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-10T06:08:37.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SFCHelpers.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\SFCHelpers\\SFCHelpers.cs",
+              "RelativeDocumentMoniker": "SFCHelpers\\SFCHelpers.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\SFCHelpers\\SFCHelpers\\SFCHelpers.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SFCHelpers\\SFCHelpers.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:08:33.69Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

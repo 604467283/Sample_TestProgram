@@ -1,0 +1,104 @@
+20. WIFI_TX_VERIFY_ALL
+	Frequency: 2437, Data Rate: NON_HT-OFDM-54, Bandwidth: BW-20, Antenna: ANT_1, Tx Power: 15.0
+
+	Power               14.746 dBm          (16.5 ~ 13.5)       <-- pass
+	EVM                 -31.896 dB          (-25.0 ~ -80.0)     <-- pass
+	Freq Error          -2.603 ppm          (20.0 ~ -20.0)      <-- pass
+	Sym Clk Error       -1.281 ppm          (20.0 ~ -20.0)      <-- pass
+	LO Leakage          -44.325 dBc         (-15.0 ~ -100.0)    <-- pass
+	Spectrum Mask       0.000 %             (2.0 ~ 0.0)         <-- pass
+	Test time: 0.66sec
+
+20. WIFI_RX_VERIFY_PER
+	Frequency: 5500, Data Rate: VHT-MCS8, Bandwidth: BW-20, Antenna: ANT_2, Rx Power: -61.0
+
+	PER                 0.000 %             (10.0 ~ 0.0)        <-- pass
+	Test time: 0.79sec
+
+
+12. ATC_REMOVE_DUT
+	Remove DUT (Technology: BT)
+	Test time: 0.44sec
+
+13. ATC_INSERT_DUT
+	Technology: WIFI
+	DUT DLL: Realtek872x.dll
+	Available efuse memory: 200 bytes
+	DUT_VERSION=2.7.2 (2022-03-01)
+
+	Test time: 0.12sec
+
+
+
+8. BT_TX_LE
+	Frequency: 2480,Packet Type: 1LE, Tx Power: 4.5
+
+	Ini Freq Error      -7.625 KHz          (150.0 ~ -150.0)    <-- pass
+	Delta F2 Avg        238.311 KHz         (500.0 ~ 185.0)     <-- pass
+	Delta F2 Max        237.041 KHz         (750.0 ~ 185.0)     <-- pass
+	Delta F0 Fn Max     1.393 KHz           (50.0 ~ 0.0)        <-- pass
+	Delta F1 F0         0.349 KHz           (20.0 ~ 0.0)        <-- pass
+	Delta Fn Fn5 Max    1.149 KHz           (20.0 ~ 0.0)        <-- pass
+	Fn Max              0.000 KHz           (150.0 ~ -150.0)    <-- pass
+	Power               5.239 dBm           (7.5 ~ 1.5)         <-- pass
+	Delta F1 Avg        249.211 KHz         (275.0 ~ 225.0)     <-- pass
+	Ratio of F2 To F1   0.956               (10.0 ~ 0.8)        <-- pass
+	Test time: 1.20sec
+
+29. BT_TX_BDR
+	Frequency: 2402,Packet Type: 1DH5, Tx Power: 11.0
+
+	Ini Freq Error      18.565 KHz          (65.0 ~ -65.0)      <-- pass
+	Freq Drift          1.676 KHz           (40.0 ~ -40.0)      <-- pass
+	Delta F2 Max        126.696 KHz         (200.0 ~ 115.0)     <-- pass
+	Power               10.845 dBm          (15.0 ~ 7.0)        <-- pass
+	Freq Delta F1 Avg   152.125 KHz         (175.0 ~ 140.0)     <-- pass
+	DELTA_F2_F1_AV_RATIO0.887               (100.0 ~ 0.8)       <-- pass
+	Test time: 1.51sec
+
+30. BT_RX_BER
+	Frequency: 2402, Packet Type: 1DH5, Rx Power: -80.0
+	BER                 0.000 %             (0.100 ~ 0.000)     <-- pass
+	Test time: 0.72sec
+
+9. BT_RX_LE
+	Frequency: 2402, Packet Type: 1LE, Rx Power: -90.0
+	PER                 0.800 %             (10.0 ~ 0.0)        <-- pass
+	Test time: 1.29sec
+
+34. ATC_TESTER_RELEASE_CONTROL
+	Test time: 0.01sec
+
+35. ATC_WRITE_MAC_ADDRESS
+	MAC_ADDRESS: B81EA429D9BB
+	
+	Test time: 0.09sec
+
+36. ATC_WRITE_MAC_ADDRESS
+	MAC_ADDRESS: B81EA429D9BC
+	
+	Test time: 0.09sec
+
+37. ATC_WRITE_EEPROM
+	
+	Write bluetooth cal result
+	TxGainK:		0x0B
+	BT thermal:	0x5C
+	Max TxGain LE1M:	0xFF
+	Max TxGain LE2M:	0xFF
+
+	
+	Test time: 0.81sec
+
+38. ATC_REMOVE_DUT
+	Remove DUT (Technology: WIFI)
+	Available efuse memory: 99 bytes
+	Test time: 0.38sec
+
+		*****************
+		**** P A S S ****
+		*****************
+
+End:		2023/12/21 18:43:06
+
+Test Time:  00:48.7

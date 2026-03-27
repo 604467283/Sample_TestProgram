@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chroma>
+  <APServer Language="ZH-TW" CultureName="繁體中文" />
+  <APServerURL ConnectionType="tcp" SelectedPDLine="TEST001" DefaultAPServerIPs="10.141.106.194" PORT="8085" GroupName="GROUP_TEST001" />
+  <L01 APServerIPs="10.141.106.194" />
+  <GROUP_A1-RH18 APServerIPs="10.141.106.194" />
+  <EA-001 APServerIPs="" />
+  <GROUP_TEST001 APServerIPs="" />
+</Chroma>

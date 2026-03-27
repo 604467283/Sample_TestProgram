@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AreaX\\ConsoleApp_Md5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDC9E98-2514-4BBF-92B4-255491E2B169}|ConsoleApp_Md5\\Check_Md5.csproj|e:\\areax\\consoleapp_md5\\consoleapp_md5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDC9E98-2514-4BBF-92B4-255491E2B169}|ConsoleApp_Md5\\Check_Md5.csproj|solutionrelative:consoleapp_md5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AreaX\\ConsoleApp_Md5\\ConsoleApp_Md5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Md5\\Program.cs",
+              "ToolTip": "E:\\AreaX\\ConsoleApp_Md5\\ConsoleApp_Md5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_Md5\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAmwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T05:48:00.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,852 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CaseCode\\Liteon_TestProgram_UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\ict\\base_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\ict\\base_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\forms\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\forms\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn811l\\wcbn811l_l6_be_lssc_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn811l\\wcbn811l_l6_be_lssc_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_wh_labelcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_wh_labelcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_maccheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_maccheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_wh_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_wh_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wn3602m\\wn3602m_3v3_plus_sa_hoc_labelcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wn3602m\\wn3602m_3v3_plus_sa_hoc_labelcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wn3602m\\wn3602m_3v3_plus_sa_hoc_f_labelcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wn3602m\\wn3602m_3v3_plus_sa_hoc_f_labelcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_wh_maccheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_wh_maccheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_sa_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\customerfwtest_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\customerfwtest_base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_ft1\\wcbn3602m_sa_ft1_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_ft1\\wcbn3602m_sa_ft1_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3508m\\wcbn3508m_mb_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3508m\\wcbn3508m_mb_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_mb_ft3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_mb_ft3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_ft1\\wcbn3602m_sa_wh_ft1_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_ft1\\wcbn3602m_sa_wh_ft1_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_ft4\\wcbn3602m_ft4_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_ft4\\wcbn3602m_ft4_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_ft3\\wcbn3602m_ft3_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_ft3\\wcbn3602m_ft3_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_maccheck\\wcbn3602m_sa_maccheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_maccheck\\wcbn3602m_sa_maccheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_maccheck\\wcbn3602m_sa_maccheck_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_maccheck\\wcbn3602m_sa_maccheck_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_labelcheck\\wcbn3602m_sa_wh_labelcheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_labelcheck\\wcbn3602m_sa_wh_labelcheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_labelcheck\\wcbn3602m_sa_wh_labelcheck_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_labelcheck\\wcbn3602m_sa_wh_labelcheck_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\save_logfile\\savelogprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\save_logfile\\savelogprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\utilities\\uihandlehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\utilities\\uihandlehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\liteon_testprogram.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\liteon_testprogram.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_maccheck\\wcbn3602m_sa_wh_maccheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn3602m\\wcbn3602m_sa_wh_maccheck\\wcbn3602m_sa_wh_maccheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_mb_ft2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_mb_ft2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3534a\\wcbn3534a_fruitiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3534a\\wcbn3534a_fruitiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_5v_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_5v_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_50_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_50_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_mb_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_mb_ft1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft2_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft2_sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn3602m\\wcbn3602m_ft2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn813a\\wcbn813a_n5_a_ict\\wcbn813a_n5_a_ict_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn813a\\wcbn813a_n5_a_ict\\wcbn813a_n5_a_ict_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wcbn813a\\wcbn813a_n5_a_ict\\wcbn813a_n5_a_ict_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wcbn813a\\wcbn813a_n5_a_ict\\wcbn813a_n5_a_ict_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wcbn4601r\\wcbn4601r_fw8_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wcbn4601r\\wcbn4601r_fw8_ict.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wn3602m\\wn3602m_3v3_plus_sa_hoc_labelcheck\\wn3602m_3v3_plus_sa_hoc_labelcheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wn3602m\\wn3602m_3v3_plus_sa_hoc_labelcheck\\wn3602m_3v3_plus_sa_hoc_labelcheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\base\\class_variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\base\\class_variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\base\\casecodebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\base\\casecodebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|F:\\CaseCode\\Liteon_TestProgram_UI\\liteon_testprogram\\forms\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\forms\\testform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\testfunc\\litepoint\\logdatacollection_v2\\sfcfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\testfunc\\litepoint\\logdatacollection_v2\\sfcfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\caseproject\\wn3602m\\wn3602m_plus_3v3_f_ft2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\caseproject\\wn3602m\\wn3602m_plus_3v3_f_ft2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wn3602m\\wn3602m_3v3_plus_sa_hoc_f_labelcheck\\wn3602m_3v3_plus_sa_hoc_f_labelcheck_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wn3602m\\wn3602m_3v3_plus_sa_hoc_f_labelcheck\\wn3602m_3v3_plus_sa_hoc_f_labelcheck_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wn3602m\\wn3602m_3v3_plus_sa_hoc_f_labelcheck\\wn3602m_3v3_plus_sa_hoc_f_labelcheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wn3602m\\wn3602m_3v3_plus_sa_hoc_f_labelcheck\\wn3602m_3v3_plus_sa_hoc_f_labelcheck_encrypt.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\instrumentcontrol\\powersupply\\gwinstek_pss3203.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\instrumentcontrol\\powersupply\\gwinstek_pss3203.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\model_config\\wn3602m\\wn3602m_plus_3v3_f_ft2\\wn3602m_plus_3v3_f_ft2_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\model_config\\wn3602m\\wn3602m_plus_3v3_f_ft2\\wn3602m_plus_3v3_f_ft2_normal.ini||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|f:\\casecode\\liteon_testprogram_ui\\liteon_testprogram\\forms\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\forms\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|F:\\CaseCode\\Liteon_TestProgram_UI\\liteon_testprogram\\forms\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AA685BD-983A-4BE3-850A-90196DA854B6}|Liteon_TestProgram\\Liteon_TestProgram.csproj|solutionrelative:liteon_testprogram\\forms\\configform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 72,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{85201848-e430-4035-8649-f412b84d4778}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WCBN3602M_SA_WH_MacCheck.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:45:32.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WN3602M_3V3_Plus_SA_HOC_F_LabelCheck.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAAUBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:26:10.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WN3602M_3V3_Plus_SA_HOC_LabelCheck.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:19:51.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WCBN811L_L6_BE_LSSC_ICT.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN811L\\WCBN811L_L6_BE_LSSC_ICT.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN811L\\WCBN811L_L6_BE_LSSC_ICT.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN811L\\WCBN811L_L6_BE_LSSC_ICT.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN811L\\WCBN811L_L6_BE_LSSC_ICT.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:26:29.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestForm.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Forms\\TestForm.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Forms\\TestForm.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Forms\\TestForm.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\Forms\\TestForm.cs",
+              "ViewState": "AgIAAKwDAAAAAAAAAAAAAM0DAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:55:44.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WCBN3602M_SA_WH_FT1.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_FT1.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_FT1.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_FT1.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_FT1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:13:39.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Base_ICT.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\ICT\\Base_ICT.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\ICT\\Base_ICT.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\ICT\\Base_ICT.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\ICT\\Base_ICT.cs",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAAAHsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:13:20.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WCBN3602M_SA_WH_LabelCheck.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAmwAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:19:35.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WCBN3602M_SA_MacCheck.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_MacCheck.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_MacCheck.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_MacCheck.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_MacCheck.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAAKUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T08:16:41.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WCBN3602M_SA_FT1.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_FT1.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_FT1.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_FT1.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_SA_FT1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:16:48.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerFWTest_Base.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\CustomerFWTest_Base.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\CustomerFWTest_Base.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\CustomerFWTest_Base.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\CustomerFWTest_Base.cs",
+              "ViewState": "AgIAAGAFAAAAAAAAAAAqwIEFAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:17:35.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WCBN3602M_FT4.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT4.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT4.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT4.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT4.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAqwCIBAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:34:23.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WCBN3602M_SA_FT1_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_FT1\\WCBN3602M_SA_FT1_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_FT1\\WCBN3602M_SA_FT1_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_FT1\\WCBN3602M_SA_FT1_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_FT1\\WCBN3602M_SA_FT1_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-13T06:22:08.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WCBN3508M_MB_FT1.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3508M\\WCBN3508M_MB_FT1.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3508M\\WCBN3508M_MB_FT1.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3508M\\WCBN3508M_MB_FT1.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3508M\\WCBN3508M_MB_FT1.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAJgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:35:30.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WCBN3602M_FT3.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT3.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT3.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT3.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT3.cs",
+              "ViewState": "AgIAACoCAAAAAAAAAAAqwD0CAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:34:18.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WCBN3602M_MB_FT3.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT3.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT3.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT3.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:35:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WCBN3602M_SA_WH_FT1_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_FT1\\WCBN3602M_SA_WH_FT1_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_FT1\\WCBN3602M_SA_WH_FT1_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_FT1\\WCBN3602M_SA_WH_FT1_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_FT1\\WCBN3602M_SA_WH_FT1_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-13T06:30:29.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WCBN3602M_FT4_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT4\\WCBN3602M_FT4_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT4\\WCBN3602M_FT4_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT4\\WCBN3602M_FT4_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT4\\WCBN3602M_FT4_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-13T06:32:22.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WCBN3602M_FT3_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT3\\WCBN3602M_FT3_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT3\\WCBN3602M_FT3_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT3\\WCBN3602M_FT3_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_FT3\\WCBN3602M_FT3_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-13T06:32:25.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WCBN3602M_SA_MacCheck_Normal.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Normal.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Normal.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Normal.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Normal.ini",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAF8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-10T08:38:02.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WCBN3602M_SA_MacCheck_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_MacCheck\\WCBN3602M_SA_MacCheck_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-10T08:38:01.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaveLogProcess.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Save_LogFile\\SaveLogProcess.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Save_LogFile\\SaveLogProcess.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Save_LogFile\\SaveLogProcess.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\Save_LogFile\\SaveLogProcess.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAqwC8BAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:24:28.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WCBN3602M_SA_WH_LabelCheck_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-10T08:50:04.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WCBN3602M_SA_WH_LabelCheck_Normal.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Normal.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Normal.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Normal.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_LabelCheck\\WCBN3602M_SA_WH_LabelCheck_Normal.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-10T08:50:04.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Liteon_TestProgram",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Liteon_TestProgram.csproj",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
+              "RelativeToolTip": "Liteon_TestProgram\\Liteon_TestProgram.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T00:30:21.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UIHandleHelper.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Utilities\\UIHandleHelper.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Utilities\\UIHandleHelper.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Utilities\\UIHandleHelper.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\Utilities\\UIHandleHelper.cs",
+              "ViewState": "AgIAAKABAAAAAAAAAAAAALcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T09:17:54.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WCBN3602M_SA_WH_MacCheck_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck\\WCBN3602M_SA_WH_MacCheck_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck\\WCBN3602M_SA_WH_MacCheck_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck\\WCBN3602M_SA_WH_MacCheck_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN3602M\\WCBN3602M_SA_WH_MacCheck\\WCBN3602M_SA_WH_MacCheck_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-11T03:34:11.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WCBN3602M_MB_FT2.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT2.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT2.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT2.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:20:43.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WCBN3534A_Fruitiness.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3534A\\WCBN3534A_Fruitiness.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3534A\\WCBN3534A_Fruitiness.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3534A\\WCBN3534A_Fruitiness.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3534A\\WCBN3534A_Fruitiness.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:35:42.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "WCBN3602M_MB_FT1.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT1.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT1.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT1.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_MB_FT1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:34:32.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WCBN3602M_50_ICT.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_50_ICT.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_50_ICT.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_50_ICT.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_50_ICT.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:35:15.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WCBN3602M_5V_FT1.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_5V_FT1.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_5V_FT1.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_5V_FT1.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_5V_FT1.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:35:19.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WCBN3602M_FT1.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT1.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT1.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT1.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:13:08.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "WCBN3602M_FT2_Sample.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2_Sample.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2_Sample.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2_Sample.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2_Sample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:34:16.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WCBN3602M_FT2.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN3602M\\WCBN3602M_FT2.cs",
+              "ViewState": "AgIAAEcCAAAAAAAAAAAAAJoCAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:12:47.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "WN3602M_3V3_Plus_SA_HOC_LabelCheck_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_LabelCheck_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_LabelCheck_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_LabelCheck_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_LabelCheck_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-09T03:23:53.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WCBN4601R_FW8_ICT.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN4601R\\WCBN4601R_FW8_ICT.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WCBN4601R\\WCBN4601R_FW8_ICT.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WCBN4601R\\WCBN4601R_FW8_ICT.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WCBN4601R\\WCBN4601R_FW8_ICT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:26:41.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WCBN813A_N5_A_ICT_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-09T03:37:46.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "WCBN813A_N5_A_ICT_Normal.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Normal.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Normal.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Normal.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WCBN813A\\WCBN813A_N5_A_ICT\\WCBN813A_N5_A_ICT_Normal.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-09T03:37:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Class_Variable.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Base\\Class_Variable.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Base\\Class_Variable.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Base\\Class_Variable.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\Base\\Class_Variable.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAADwv7QAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T03:11:07.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SfcFile.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\TestFunc\\Litepoint\\LogDataCollection_V2\\SfcFile.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\TestFunc\\Litepoint\\LogDataCollection_V2\\SfcFile.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\TestFunc\\Litepoint\\LogDataCollection_V2\\SfcFile.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\TestFunc\\Litepoint\\LogDataCollection_V2\\SfcFile.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T05:12:06.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CaseCodeBase.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Base\\CaseCodeBase.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Base\\CaseCodeBase.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Base\\CaseCodeBase.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\Base\\CaseCodeBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T03:49:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TestForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Forms\\TestForm.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Forms\\TestForm.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI_Debug\\Liteon_TestProgram\\Forms\\TestForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\Liteon_TestProgram_UI_Debug\\Liteon_TestProgram\\Forms\\TestForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:50:20.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "WN3602M_Plus_3V3_F_FT2.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_Plus_3V3_F_FT2.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_Plus_3V3_F_FT2.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_Plus_3V3_F_FT2.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\CaseProject\\WN3602M\\WN3602M_Plus_3V3_F_FT2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:28:03.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GWINSTEK_PSS3203.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\InstrumentControl\\PowerSupply\\GWINSTEK_PSS3203.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\InstrumentControl\\PowerSupply\\GWINSTEK_PSS3203.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\InstrumentControl\\PowerSupply\\GWINSTEK_PSS3203.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\InstrumentControl\\PowerSupply\\GWINSTEK_PSS3203.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T03:59:55.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Encrypt.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Encrypt.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Encrypt.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Encrypt.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Encrypt.ini",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-07T02:27:04.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Normal.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Normal.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Normal.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Normal.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck\\WN3602M_3V3_Plus_SA_HOC_F_LabelCheck_Normal.ini",
+              "ViewState": "AgIAAEUAAAAAAAAAAADwv18AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-07T03:47:04.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ConfigForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Forms\\ConfigForm.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Forms\\ConfigForm.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI_Debug\\Liteon_TestProgram\\Forms\\ConfigForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\Liteon_TestProgram_UI_Debug\\Liteon_TestProgram\\Forms\\ConfigForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:50:43.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ConfigForm.cs",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Forms\\ConfigForm.cs",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Forms\\ConfigForm.cs",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Forms\\ConfigForm.cs",
+              "RelativeToolTip": "Liteon_TestProgram\\Forms\\ConfigForm.cs",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAWwJsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T02:50:50.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "WN3602M_Plus_3V3_F_FT2_Normal.ini",
+              "DocumentMoniker": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_Plus_3V3_F_FT2\\WN3602M_Plus_3V3_F_FT2_Normal.ini",
+              "RelativeDocumentMoniker": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_Plus_3V3_F_FT2\\WN3602M_Plus_3V3_F_FT2_Normal.ini",
+              "ToolTip": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_Plus_3V3_F_FT2\\WN3602M_Plus_3V3_F_FT2_Normal.ini",
+              "RelativeToolTip": "Liteon_TestProgram\\Model_Config\\WN3602M\\WN3602M_Plus_3V3_F_FT2\\WN3602M_Plus_3V3_F_FT2_Normal.ini",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002768|",
+              "WhenOpened": "2026-03-07T03:47:01.71Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 328,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

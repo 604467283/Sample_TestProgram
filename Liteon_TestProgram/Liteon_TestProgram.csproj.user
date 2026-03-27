@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\LogCollectSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MsgBoxInfoDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\PictureViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProjectChangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\SelectionWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ConfigForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MessageBoxEX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\TestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ThroughputInfoConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ToolForm_01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ToolForm_02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,805 @@
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Tool_Config\Test_Setting.ini
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\devcon.exe
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\LiteonPEM.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\MyPEM.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\PEMDLL.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\PEMXDll.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\TestDll\vccorlib120.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Liteon_TestProgram_V1.0.0.exe
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Liteon_TestProgram_V1.0.0.deps.json
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Liteon_TestProgram_V1.0.0.runtimeconfig.json
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Liteon_TestProgram_V1.0.0.pdb
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\FluentFTP.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\OpenTK.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\OpenTK.GLControl.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\ScottPlot.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\ScottPlot.WinForms.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\SkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\SkiaSharp.Views.Desktop.Common.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\SkiaSharp.Views.WindowsForms.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Renci.SshNet.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\System.CodeDom.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\System.Management.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\linux-arm\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\linux-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\osx\native\libSkiaSharp.dylib
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\win-x64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\win-x86\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\Ivi.Visa.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\NationalInstruments.Common.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\NationalInstruments.Visa.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\SimpleWifi.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\BuildOutput\NationalInstruments.Common.xml
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.AssemblyReference.cache
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.CaseForm.resources
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ConfigForm.resources
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.MainForm.resources
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.TestForm.resources
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm.resources
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Properties.Resources.resources
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.GenerateResource.cache
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfoInputs.cache
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfo.cs
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.CoreCompileInputs.cache
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_T.36C37C7E.Up2Date
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\refint\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V1.0.0.pdb
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.genruntimeconfig.cache
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\obj\Debug\ref\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Tool_Config\Test_Setting.ini
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\devcon.exe
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\LiteonPEM.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\MyPEM.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEMDLL.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEMXDll.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\TestDll\vccorlib120.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.exe
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.deps.json
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.runtimeconfig.json
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.pdb
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\FluentFTP.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\OpenTK.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\OpenTK.GLControl.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.WinForms.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.Desktop.Common.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.WindowsForms.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Renci.SshNet.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\System.CodeDom.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\System.Management.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx\native\libSkiaSharp.dylib
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\Ivi.Visa.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Visa.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\SimpleWifi.dll
+F:\CaseCode\Liteon_TestProgram\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.xml
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Tool_Config\Test_Setting.ini
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\devcon.exe
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\LiteonPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\MyPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEMDLL.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEMXDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\TestDll\vccorlib120.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.exe
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.deps.json
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.runtimeconfig.json
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.pdb
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\FluentFTP.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\OpenTK.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\OpenTK.GLControl.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.WinForms.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.Desktop.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.WindowsForms.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Renci.SshNet.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\System.CodeDom.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx\native\libSkiaSharp.dylib
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net6.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\Ivi.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\SimpleWifi.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.xml
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.AssemblyReference.cache
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.CaseForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ConfigForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.MainForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MessageBoxEX.resources
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.TestForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Properties.Resources.resources
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.GenerateResource.cache
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfoInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfo.cs
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.CoreCompileInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_T.36C37C7E.Up2Date
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\refint\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V1.0.0.pdb
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.genruntimeconfig.cache
+F:\CaseCode\Liteon_TestProgram_UI_1\Liteon_TestProgram\obj\Debug\ref\Liteon_TestProgram_V1.0.0.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Tool_Config\Test_Setting.ini
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\FluentFTP.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\OpenTK.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\OpenTK.GLControl.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.WinForms.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.WindowsForms.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Renci.SshNet.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.CodeDom.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Management.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Ivi.Visa.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Visa.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SimpleWifi.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.xml
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.CaseForm.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ConfigForm.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.MainForm.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MessageBoxEX.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.TestForm.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_T.36C37C7E.Up2Date
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Tool_Config\Test_Setting.ini
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\devcon.exe
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\LiteonPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\MyPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEMDLL.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEMXDll.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\TestDll\vccorlib120.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.exe
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.deps.json
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.runtimeconfig.json
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V1.0.0.pdb
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.SqlServer.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\FluentFTP.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\OpenTK.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\OpenTK.GLControl.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.WinForms.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.Desktop.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.WindowsForms.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Renci.SshNet.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\System.CodeDom.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.EF6.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx\native\libSkiaSharp.dylib
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\Ivi.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\SimpleWifi.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.xml
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.AssemblyReference.cache
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.CaseForm.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ConfigForm.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.MainForm.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MessageBoxEX.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MsgBoxInfoDetails.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.CaseProject.SelectionWindow.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.TestForm.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ThroughputInfoConfirm.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Properties.Resources.resources
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.GenerateResource.cache
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfoInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfo.cs
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.CoreCompileInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_T.36C37C7E.Up2Date
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\refint\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V1.0.0.pdb
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.genruntimeconfig.cache
+F:\CaseCode\Liteon_TestProgram_UI - 副本\Liteon_TestProgram\obj\Debug\ref\Liteon_TestProgram_V1.0.0.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Tool_Config\Test_Setting.ini
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Chroma.xml
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\ClientUtils.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\log4net.DLL
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\MESDataLayer.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Newtonsoft.Json.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Oracle.ManagedDataAccess.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObject.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObjetExtend.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Sajet.ini
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SajetConnect.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SSC.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.exe
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.xml
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\devcon.exe
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcp120d.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcr120d.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\PEM_SelDev.jpg
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\Sajet_CheckSFCI.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SCTSEDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX32.sys
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX64.sys
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\vccorlib120d.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\librockmong.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\libusb-1.0.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\LiteonPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\MyPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMDLL.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMXDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\vccorlib120.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.01.exe
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.01.deps.json
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.01.runtimeconfig.json
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.01.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.01.pdb
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.SqlServer.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\EPPlus.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\EPPlus.Interfaces.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\EPPlus.System.Drawing.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\FluentFTP.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Json.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Physical.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Primitives.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Microsoft.IO.RecyclableMemoryStream.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Ookii.Dialogs.Wpf.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\OpenTK.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\OpenTK.GLControl.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.WinForms.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.Desktop.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.WindowsForms.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Renci.SshNet.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.CodeDom.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.EF6.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.Drawing.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\System.Security.Cryptography.Pkcs.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx\native\libSkiaSharp.dylib
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\Ivi.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\SimpleWifi.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.xml
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.AssemblyReference.cache
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.CaseForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ConfigForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.MainForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MessageBoxEX.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MsgBoxInfoDetails.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.PictureViewer.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.CaseProject.SelectionWindow.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.TestForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ThroughputInfoConfirm.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_01.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_02.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Properties.Resources.resources
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.GenerateResource.cache
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfoInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfo.cs
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.CoreCompileInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_T.36C37C7E.Up2Date
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.01.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\refint\Liteon_TestProgram_V01.00.01.dll
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.01.pdb
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.genruntimeconfig.cache
+F:\CaseCode\Liteon_TestProgram_UI_2\Liteon_TestProgram\obj\Debug\ref\Liteon_TestProgram_V01.00.01.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Chroma.xml
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\ClientUtils.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\log4net.DLL
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\MESDataLayer.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Oracle.ManagedDataAccess.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObject.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObjetExtend.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Sajet.ini
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SajetConnect.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SSC.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.exe
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.xml
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\devcon.exe
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcp120d.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcr120d.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\PEM_SelDev.jpg
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\Sajet_CheckSFCI.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SCTSEDll.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX32.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX32.sys
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX64.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX64.sys
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolPeTsDll.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\vccorlib120d.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\librockmong.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\libusb-1.0.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\LiteonPEM.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\MyPEM.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMDLL.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMXDll.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX32.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX64.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolPeTsDll.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\vccorlib120.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.02.exe
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.02.deps.json
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.02.runtimeconfig.json
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.02.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.02.pdb
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\InTheHand.Net.Personal.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EPPlus.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EPPlus.Interfaces.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EPPlus.System.Drawing.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Asio.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Core.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Midi.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Wasapi.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.WinForms.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.WinMM.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Ookii.Dialogs.Wpf.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MsgBoxInfoDetails.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.PictureViewer.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ProjectChangeForm.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.CaseProject.SelectionWindow.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ThroughputInfoConfirm.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_01.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_02.resources
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.02.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\refint\Liteon_TestProgram_V01.00.02.dll
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.02.pdb
+C:\Users\Administrator\Desktop\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\ref\Liteon_TestProgram_V01.00.02.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Tool_Config\Test_Setting.ini
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\ICT\zhiDE_CmdLine.exe
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Chroma.xml
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\ClientUtils.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\log4net.DLL
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\MESDataLayer.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Newtonsoft.Json.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Oracle.ManagedDataAccess.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObject.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObjetExtend.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Sajet.ini
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SajetConnect.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SSC.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.exe
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.xml
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\devcon.exe
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcp120d.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcr120d.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\PEM_SelDev.jpg
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\Sajet_CheckSFCI.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SCTSEDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX32.sys
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX64.sys
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\vccorlib120d.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\librockmong.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\libusb-1.0.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\LiteonPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\MyPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMDLL.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMXDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\vccorlib120.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.exe
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.deps.json
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.runtimeconfig.json
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.pdb
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\InTheHand.Net.Personal.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.SqlServer.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\EPPlus.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\EPPlus.Interfaces.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\EPPlus.System.Drawing.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\FluentFTP.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Json.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Physical.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Primitives.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Microsoft.IO.RecyclableMemoryStream.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NAudio.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NAudio.Asio.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NAudio.Core.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NAudio.Midi.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NAudio.Wasapi.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NAudio.WinForms.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NAudio.WinMM.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Ookii.Dialogs.Wpf.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\OpenTK.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\OpenTK.GLControl.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.WinForms.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.Desktop.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.WindowsForms.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Renci.SshNet.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.CodeDom.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.EF6.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.Drawing.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\System.Security.Cryptography.Pkcs.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx\native\libSkiaSharp.dylib
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\Ivi.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\SimpleWifi.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.xml
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.AssemblyReference.cache
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.CaseForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ConfigForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.LogCollectSettingForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.MainForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MessageBoxEX.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MsgBoxInfoDetails.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.PictureViewer.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ProjectChangeForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.CaseProject.SelectionWindow.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.TestForm.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ThroughputInfoConfirm.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_01.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_02.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Properties.Resources.resources
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.GenerateResource.cache
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfoInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfo.cs
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.CoreCompileInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_T.36C37C7E.Up2Date
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.04.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\refint\Liteon_TestProgram_V01.00.04.dll
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.04.pdb
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.genruntimeconfig.cache
+F:\CaseCode\Liteon_TestProgram_UI_Debug\Liteon_TestProgram\obj\Debug\ref\Liteon_TestProgram_V01.00.04.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Tool_Config\Test_Setting.ini
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\ICT\zhiDE_CmdLine.exe
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Chroma.xml
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\ClientUtils.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\log4net.DLL
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\MESDataLayer.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Newtonsoft.Json.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Oracle.ManagedDataAccess.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObject.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\RemoteObjetExtend.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Sajet.ini
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SajetConnect.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\SSC.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.exe
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\OneMES\Terminal.xml
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\devcon.exe
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcp120d.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\msvcr120d.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\PEM_SelDev.jpg
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\Sajet_CheckSFCI.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SCTSEDll.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX32.sys
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SOLDRVX64.sys
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\PEM_x64\vccorlib120d.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\librockmong.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\RockMong\libusb-1.0.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\LiteonPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\MyPEM.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMDLL.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\PEMXDll.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX32.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolDrvX64.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\SolPeTsDll.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\TestDll\TestDll_Old\vccorlib120.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.exe
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.deps.json
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.runtimeconfig.json
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Liteon_TestProgram_V01.00.04.pdb
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\InTheHand.Net.Personal.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.SqlServer.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EntityFramework.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EPPlus.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EPPlus.Interfaces.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\EPPlus.System.Drawing.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\FluentFTP.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Configuration.Json.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileProviders.Physical.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.Extensions.Primitives.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Microsoft.IO.RecyclableMemoryStream.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Asio.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Core.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Midi.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.Wasapi.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.WinForms.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NAudio.WinMM.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Ookii.Dialogs.Wpf.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\OpenTK.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\OpenTK.GLControl.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\ScottPlot.WinForms.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.Desktop.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SkiaSharp.Views.WindowsForms.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Renci.SshNet.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.CodeDom.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Data.SQLite.EF6.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Drawing.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\System.Security.Cryptography.Pkcs.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\sni.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-arm64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-musl-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\libSkiaSharp.so
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx\native\libSkiaSharp.dylib
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\libSkiaSharp.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x64\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win-x86\native\SQLite.Interop.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.IO.Ports.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Management.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\Ivi.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Visa.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\SimpleWifi.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\bin\LiteonProgram\NationalInstruments.Common.xml
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.AssemblyReference.cache
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.CaseForm.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ConfigForm.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.LogCollectSettingForm.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.MainForm.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MessageBoxEX.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.MsgBoxInfoDetails.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.PictureViewer.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ProjectChangeForm.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.CaseProject.SelectionWindow.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.TestForm.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ThroughputInfoConfirm.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_01.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Forms.ToolForm_02.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.Properties.Resources.resources
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.GenerateResource.cache
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfoInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.AssemblyInfo.cs
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.csproj.CoreCompileInputs.cache
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_T.36C37C7E.Up2Date
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.04.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\refint\Liteon_TestProgram_V01.00.04.dll
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram_V01.00.04.pdb
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\Liteon_TestProgram.genruntimeconfig.cache
+F:\CaseCode\Liteon_TestProgram_UI\Liteon_TestProgram\obj\Debug\ref\Liteon_TestProgram_V01.00.04.dll

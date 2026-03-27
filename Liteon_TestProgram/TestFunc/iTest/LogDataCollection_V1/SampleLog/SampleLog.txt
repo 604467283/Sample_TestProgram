@@ -1,0 +1,167 @@
+
+
+42.WT_VERIFY_TX_ALL2    6505 HE160-MCS11 CHAIN1 [-2.0] [8.5] [2.0]
+--------------------------------------------------------------------------------
+   TX_[1] 1201.0M Power[ 0]    : 9.01   dBm  (   6.50 ..........O.......   10.50)
+   TX_[1] 1201.0M EVM          : -41.77 dB   ( -55.00 ...........O......  -35.00)
+   TX_[1] 1201.0M MaskErr      : 0.00   %    (   0.00 O.................    5.12)
+   TX_[1] 1201.0M FreqErr      : -0.48  ppm  ( -20.00 ........O.........   20.00)
+
+                                                                          PASS
+   Test Time: 4.28 sec
+
+
+43.WT_VERIFY_RX_PER    2412(1) HT20-MCS0 CHAIN1
+--------------------------------------------------------------------------------
+   RX_[1] Tester Send: 1000 Frames@ -87.0dBm
+          Dut Receive: 1000 Frames
+          Pass:100.00%     Fail:  0.00% (   0.00 O.................   10.00)
+                                                                          PASS
+   Test Time: 0.97 sec
+
+
+74.WT_VERIFY_BT_TX    2402(0) BLE CHAIN0
+--------------------------------------------------------------------------------
+   TX_[0]   Power        : 15.19  dBm  (   9.00 .............O....   17.00)
+   TX_[0]   Init Freq Err: 1.31   KHz  ( -75.00 ........O.........   75.00)
+   TX_[0]   Delta F1 Avg : 250.19 KHz  ( 225.00 ........O.........  275.00)
+   TX_[0]   Delta F2 Avg : 223.39 KHz  ( 180.00 ..O...............  500.00)
+   TX_[0]   Delta F2/F1  : 0.89        (   0.80 .O................    2.00)
+   TX_[0]   Delta F2 Max : 218.46 KHz  ( 185.00 .O................  500.00)
+   TX_[0]   Fn Max       : 1.27   KHz  (-150.00 ........O.........  150.00)
+   TX_[0]   F0Fn Max     : 0.85   KHz  (   0.00 O.................   50.00)
+   TX_[0]   F1F0 Delta   : 0.82   KHz  (   0.00 O.................   20.00)
+   TX_[0]   FnFn5 Max    : 0.58   KHz  (   0.00 O.................   20.00)
+
+                                                                          PASS
+   Test Time: 1.06 sec
+
+
+75.WT_VERIFY_BT_RX_BER    2472(70) 3DH5 CHAIN0
+--------------------------------------------------------------------------------
+   RX_[0] Receive:8315024 bits @ -87.0dBm
+          Ok bits:8315024    Err:    0
+          Pass:100.00%     Fail:  0.00%(   0.00 O.................    0.10)
+                                                                          PASS
+   Test Time: 5.14 sec
+
+
+76.WT_VERIFY_BT_RX_PER    2402(0) BLE CHAIN0
+--------------------------------------------------------------------------------
+   RX_[0] Tester Send: 1000 Frames@ -93.0dBm
+          Dut Receive: 1000 Frames
+          Pass:100.00%     Fail:  0.00% (   0.00 O.................   30.80)
+                                                                          PASS
+   Test Time: 1.13 sec
+
+
+77.WT_VERIFY_BT_RX_BER    2441(39) 3DH5 CHAIN0
+--------------------------------------------------------------------------------
+   RX_[0] Receive:8306856 bits @ -87.0dBm
+          Ok bits:8306856    Err:    0
+          Pass:100.00%     Fail:  0.00%(   0.00 O.................    0.10)
+                                                                          PASS
+   Test Time: 5.09 sec
+
+
+
+
+Test Time Summary:
+=====================================================================================
+ No.   Item                                                        Result   TestTime 
+-------------------------------------------------------------------------------------
+  1  WT_CONNECT_TESTER                                              PASS     0.11sec
+  2  WT_INSERT_DUT    5G                                            PASS     1.38sec
+  3  WT_DELAY    1000                                               PASS     1.00sec
+  4  WT_CAL_START                                                   PASS     0.00sec
+  5  WT_QCA_CAL_FREQ2    5500(100) AC20-MCS0 CHAIN0                 PASS     13.08sec
+  6  WT_QCA_CAL_PWR_FW2    5500(100) 6M CHAIN0                      PASS     23.75sec
+  7  WT_DELAY    1000                                               PASS     1.02sec
+  8  WT_QCA_CAL_PWR_FW2    2412(1) 6M CHAIN                         PASS     6.30sec
+  9  WT_CAL_END                                                     PASS     0.00sec
+ 10  WT_DELAY    1000                                               PASS     1.00sec
+ 11  WT_VERIFY_TX_ALL2    2472(13) 6M CHAIN0 [-1.5] [18] [1.5]      PASS     2.13sec
+ 12  WT_VERIFY_TX_ALL2    2472(13) 6M CHAIN1 [-1.5] [18] [1.5]      PASS     2.09sec
+ 13  WT_VERIFY_TX_ALL2    2442(7) HT20-MCS0 CHAIN0 [-1.5] [18] [1.5] PASS     2.03sec
+ 14  WT_VERIFY_TX_ALL2    2472(13) HT20-MCS0 CHAIN1 [-1.5] [18] [1.5] PASS     2.14sec
+ 15  WT_VERIFY_TX_ALL2    2472(13) HT20-MCS7 CHAIN0 [-1.5] [15] [1.5] PASS     2.14sec
+ 16  WT_VERIFY_TX_ALL2    2442(7) HT20-MCS7 CHAIN1 [-1.5] [15] [1.5] PASS     2.09sec
+ 17  WT_VERIFY_TX_ALL2    2442(7) HT40-MCS0 CHAIN0 [-1.5] [15.5] [1.5] PASS     1.99sec
+ 18  WT_VERIFY_TX_ALL2    2462(11) HT40-MCS0 CHAIN1 [-1.5] [15.5] [1.5] PASS     1.95sec
+ 19  WT_VERIFY_TX_ALL2    2462(11) HT40-MCS7 CHAIN0 [-1.5] [13] [1.5] PASS     2.00sec
+ 20  WT_VERIFY_TX_ALL2    2442(7) HT40-MCS7 CHAIN1 [-1.5] [13] [1.5] PASS     2.08sec
+ 21  WT_VERIFY_TX_ALL2    2472 HE20-MCS0 CHAIN0 [-1.5] [18] [1.5]   PASS     2.00sec
+ 22  WT_VERIFY_TX_ALL2    2442 HE20-MCS0 CHAIN1 [-1.5] [18] [1.5]   PASS     1.92sec
+ 23  WT_VERIFY_TX_ALL2    2422 HE40-MCS0 CHAIN0 [-1.5] [15.5] [1.5] PASS     1.75sec
+ 24  WT_VERIFY_TX_ALL2    2462 HE40-MCS0 CHAIN1 [-1.5] [15.5] [1.5] PASS     1.77sec
+ 25  WT_VERIFY_TX_ALL2    2442 HE40-MCS11 CHAIN0 [-1.5] [11.5] [1.5] PASS     1.83sec
+ 26  WT_VERIFY_TX_ALL2    2422 HE40-MCS11 CHAIN1 [-1.5] [11.5] [1.5] PASS     1.84sec
+ 27  WT_VERIFY_TX_ALL2    5210(42) AC80-MCS9 CHAIN0 [-2.0] [12.5] [2.0] PASS     1.91sec
+ 28  WT_VERIFY_TX_ALL2    5530(106) AC80-MCS9 CHAIN1 [-2.0] [12.5] [2.0] PASS     1.89sec
+ 29  WT_VERIFY_TX_ALL2    5500 HE20-MCS11 CHAIN0 [-2.0] [12.5] [2.0] PASS     1.99sec
+ 30  WT_VERIFY_TX_ALL2    5825 HE20-MCS11 CHAIN1 [-2.0] [12.5] [2.0] PASS     2.00sec
+ 31  WT_VERIFY_TX_ALL2    5190 HE40-MCS11 CHAIN0 [-2.0] [12] [2.0]  PASS     2.06sec
+ 32  WT_VERIFY_TX_ALL2    5510 HE40-MCS11 CHAIN1 [-2.0] [12] [2.0]  PASS     2.03sec
+ 33  WT_VERIFY_TX_ALL2    5775 HE80-MCS11 CHAIN0 [-2.0] [11] [2.0]  PASS     2.09sec
+ 34  WT_VERIFY_TX_ALL2    5775 HE80-MCS11 CHAIN1 [-2.0] [11] [2.0]  PASS     2.09sec
+ 35  WT_VERIFY_TX_ALL2    5815 HE160-MCS0 CHAIN0 [-2.0] [14.5] [2.0] PASS     4.25sec
+ 36  WT_VERIFY_TX_ALL2    5250 HE160-MCS0 CHAIN1 [-2.0] [14.5] [2.0] PASS     4.23sec
+ 37  WT_VERIFY_TX_ALL2    5815 HE160-MCS11 CHAIN0 [-2.0] [9] [2.0]  PASS     4.33sec
+ 38  WT_VERIFY_TX_ALL2    5570 HE160-MCS11 CHAIN1 [-2.0] [9] [2.0]  PASS     4.28sec
+ 39  WT_VERIFY_TX_ALL2    7025 HE80-MCS11 CHAIN0 [-2.0] [9] [2.0]   PASS     2.23sec
+ 40  WT_VERIFY_TX_ALL2    5985 HE80-MCS11 CHAIN1 [-2.0] [9] [2.0]   PASS     2.16sec
+ 41  WT_VERIFY_TX_ALL2    6985 HE160-MCS11 CHAIN0 [-2.0] [8.5] [2.0] PASS     4.31sec
+ 42  WT_VERIFY_TX_ALL2    6505 HE160-MCS11 CHAIN1 [-2.0] [8.5] [2.0] PASS     4.28sec
+ 43  WT_VERIFY_RX_PER    2412(1) HT20-MCS0 CHAIN1                   PASS     0.97sec
+ 44  WT_VERIFY_RX_PER    2422(3) AC40-MCS9 CHAIN0                   PASS     0.58sec
+ 45  WT_VERIFY_RX_PER    2462(11) AX40-MCS11 CHAIN0                 PASS     1.20sec
+ 46  WT_VERIFY_RX_PER    2462(11) AX40-MCS11 CHAIN1                 PASS     1.25sec
+ 47  WT_VERIFY_RX_PER    5180(36) AC20-MCS0 CHAIN1                  PASS     1.05sec
+ 48  WT_VERIFY_RX_PER    5190(38) AC40-MCS9 CHAIN1                  PASS     0.56sec
+ 49  WT_VERIFY_RX_PER    5775(155) AX80-MCS11 CHAIN0                PASS     1.14sec
+ 50  WT_VERIFY_RX_PER    5985(197) AX80-MCS11 CHAIN0                PASS     1.14sec
+ 51  WT_VERIFY_RX_PER    6505 AX160-MCS11 CHAIN1                    PASS     1.91sec
+ 52  WT_VERIFY_RX_PER    6985 AX160-MCS11 CHAIN1                    PASS     1.95sec
+ 53  WT_SET_MAC_ADDRESS2    2.4G                                    PASS     0.19sec
+ 54  WT_DUT_METHOD    Write_Xtal_To_OTP                             PASS     0.38sec
+ 55  WT_DUT_METHOD    Write_WIFI_SSID_SVID                          PASS     0.19sec
+ 56  WT_DUT_METHOD    Write_WIFI_RegDomain                          PASS     0.20sec
+ 57  WT_SAVE_CAL_DATA                                               PASS     0.20sec
+ 58  WT_REMOVE_DUT    5G                                            PASS     0.00sec
+ 59  WT_DELAY    1000                                               PASS     1.00sec
+ 60  WT_USER_EXT_APP    BTdiag_test_mode.vbs [5000] [-F]            PASS     1.20sec
+ 61  WT_INSERT_DUT    BT                                            PASS     11.31sec
+ 62  WT_SET_MAC_ADDRESS2    BT                                      PASS     0.05sec
+ 63  WT_CAL_START    BT                                             PASS     0.00sec
+ 64  WT_DUT_METHOD    BT_Pout_Cal_PL0                               PASS     0.01sec
+ 65  WT_CAL_PWR_BT    2441(39) 1DH1 CHAIN0                          PASS     0.19sec
+ 66  WT_DUT_METHOD    BT_Pout_Cal_PL1                               PASS     0.02sec
+ 67  WT_CAL_PWR_BT    2441(39) 1DH1 CHAIN0                          PASS     0.25sec
+ 68  WT_CAL_END    BT                                               PASS     0.01sec
+ 69  WT_DUT_METHOD    Write_BT_Pout_Cal_To_RAM                      PASS     0.06sec
+ 70  WT_DUT_METHOD    Write_BT_Pout_Cal_To_OTP                      PASS     0.03sec
+ 71  WT_VERIFY_BT_TX    2402(0) 1DH1 CHAIN0                         PASS     0.78sec
+ 72  WT_VERIFY_BT_TX    2440(38) 2DH3 CHAIN0                        PASS     0.30sec
+ 73  WT_VERIFY_BT_TX    2480(78) 3DH5 CHAIN0                        PASS     0.31sec
+ 74  WT_VERIFY_BT_TX    2402(0) BLE CHAIN0                          PASS     1.06sec
+ 75  WT_VERIFY_BT_RX_BER    2472(70) 3DH5 CHAIN0                    PASS     5.14sec
+ 76  WT_VERIFY_BT_RX_PER    2402(0) BLE CHAIN0                      PASS     1.13sec
+ 77  WT_VERIFY_BT_RX_BER    2441(39) 3DH5 CHAIN0                    PASS     5.09sec
+ 78  WT_REMOVE_DUT    BT                                            PASS     0.02sec
+ 79  WT_DISCONNECT_TESTER                                           PASS     0.00sec
+=====================================================================================
+
+
+     Total Time: 166.407 sec
+     Total Result: PASS
+     #######################################################################
+     ##                                                                   ##
+     ##                 ########     ###     ######   ######              ##
+     ##                 ##     ##   ## ##   ##    ## ##    ##             ##
+     ##                 ##     ##  ##   ##  ##       ##                   ##
+     ##                 ########  ##     ##  ######   ######              ##
+     ##                 ##        #########       ##       ##             ##
+     ##                 ##        ##     ## ##    ## ##    ##             ##
+     ##                 ##        ##     ##  ######   ######              ##
+     ##                                                                   ##
+     #######################################################################
