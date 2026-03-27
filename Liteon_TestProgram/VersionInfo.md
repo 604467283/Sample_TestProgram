@@ -18,6 +18,6 @@ V01.00.02   202506111452
 
 
 V01.00.01   V0.0.0.1  202505151401  
-1: 添加WCBN3534A_Fruitiness自动测试，功能主要为控制IQXel获取产品的Power
+1: 添加WCBN3534A_Fruitiness自动测试，功能主要为控制IQXel获取产品的Power.
 
 

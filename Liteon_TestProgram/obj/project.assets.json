@@ -2986,11 +2986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
+      "projectUniqueName": "F:\\GitHub\\Sample_TestProgram\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
       "projectName": "Liteon_TestProgram_V01.00.04",
-      "projectPath": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
+      "projectPath": "F:\\GitHub\\Sample_TestProgram\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
       "packagesPath": "L:\\NuGet",
-      "outputPath": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\obj\\",
+      "outputPath": "F:\\GitHub\\Sample_TestProgram\\Liteon_TestProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Liteon_TestProgram_V01.00.04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf8da2188cf6f7d6bbde8d289cb8a6ffe95bcae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Liteon_TestProgram_V01.00.04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Liteon_TestProgram_V01.00.04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

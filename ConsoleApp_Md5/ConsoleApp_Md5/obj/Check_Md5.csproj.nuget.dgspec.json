@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\CaseCode\\Liteon_TestProgram_UI\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj": {}
+    "F:\\GitHub\\Sample_TestProgram\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj": {}
   },
   "projects": {
-    "F:\\CaseCode\\Liteon_TestProgram_UI\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj": {
+    "F:\\GitHub\\Sample_TestProgram\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\CaseCode\\Liteon_TestProgram_UI\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj",
+        "projectUniqueName": "F:\\GitHub\\Sample_TestProgram\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj",
         "projectName": "Check_Md5",
-        "projectPath": "F:\\CaseCode\\Liteon_TestProgram_UI\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj",
+        "projectPath": "F:\\GitHub\\Sample_TestProgram\\ConsoleApp_Md5\\ConsoleApp_Md5\\Check_Md5.csproj",
         "packagesPath": "L:\\NuGet",
-        "outputPath": "F:\\CaseCode\\Liteon_TestProgram_UI\\ConsoleApp_Md5\\ConsoleApp_Md5\\obj\\",
+        "outputPath": "F:\\GitHub\\Sample_TestProgram\\ConsoleApp_Md5\\ConsoleApp_Md5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

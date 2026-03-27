@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n/F7NrA3QJ0=",
+  "dgSpecHash": "x9rpoyUztoM=",
   "success": true,
-  "projectFilePath": "F:\\CaseCode\\Liteon_TestProgram_UI\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
+  "projectFilePath": "F:\\GitHub\\Sample_TestProgram\\Liteon_TestProgram\\Liteon_TestProgram.csproj",
   "expectedPackageFiles": [
     "L:\\NuGet\\32feet.net\\3.5.0\\32feet.net.3.5.0.nupkg.sha512",
     "L:\\NuGet\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
